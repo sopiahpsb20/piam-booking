@@ -14,4 +14,4 @@ Sistem Pemesanan Hotel ini memungkinkan pengguna untuk memesan kamar hotel secar
 
 
 ## Flow Chart
-![Flowchart PIAM BOOKING](\public\flowchart_piam_booking.drawio.png)
+![Flowchart PIAM BOOKING](./public/flowchart_piam_booking.drawio.png)
